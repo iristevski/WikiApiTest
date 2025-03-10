@@ -6,4 +6,4 @@ This is a Qt-based desktop application designed to interact with the Wikipedia S
 
 - **Search Wikipedia**: Enter a search term and retrieve related articles from Wikipedia.
 - **Display Results**: Results are displayed in a json format, showing the article titles and brief descriptions.
-- **User-Friendly Interface**: Simple and clean UI built using the Qt framework.# WikiApiTest
+- **User-Friendly Interface**: Simple and clean UI built using the Qt framework.
